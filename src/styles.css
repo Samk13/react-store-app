@@ -8,13 +8,13 @@
 }
 
 body {
-  font-family: 'Oswald', sans-serif !important;
+  font-family: 'Raleway', sans-serif !important;
   background: var(--mainBlue) !important;
   color: var(--lightGreen) !important;
 }
 
 .text-title {
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Lato', sans-serif !important;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
 }
@@ -30,7 +30,8 @@ body {
 .btn-black {
   background: transparent;
   text-transform: capitalize;
-  font-size: 0.8rem !important;
+  font-size: 2rem !important;
+  font-weight: 200 !important;
   color: var(--green) !important;
   border-radius: 5px !important;
   border: 0.1rem solid var(--green) !important;
@@ -47,7 +48,7 @@ body {
   color: var(--green);
 }
 .cart-icon:hover{
-  background: var(--orange);
-  color: var(--mainBlue) !important;
-  border: 0.1rem solid var(--orange) !important;
+  background: var(--mainBlue);
+  color: var(--orange) !important;
+  
 }
